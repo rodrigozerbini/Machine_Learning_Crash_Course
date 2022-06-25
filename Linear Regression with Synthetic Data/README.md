@@ -1,4 +1,4 @@
-Learning objectives:
+Learning objectives:  
 After doing this exercise, you'll know how to do the following:  
 
 Run Colabs.  
